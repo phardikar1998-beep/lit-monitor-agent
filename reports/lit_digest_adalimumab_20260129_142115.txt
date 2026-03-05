@@ -1,0 +1,269 @@
+================================================================================
+MEDICAL LITERATURE MONITORING DIGEST
+================================================================================
+
+Drug: adalimumab
+Period: Last 7 days
+Generated: January 29, 2026 at 14:21
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+
+Total Publications Found: 11
+  - High Relevance:   0
+  - Medium Relevance: 11
+  - Low Relevance:    0
+
+================================================================================
+MEDIUM RELEVANCE PUBLICATIONS
+================================================================================
+
+[1] Transmural Healing is Associated With Higher Biological Drug Concentrations than Mucosal Healing in Crohn Disease.
+----------------------------------------
+
+Authors: Ze-Min Han, Welera Haissou Elodie, Wen-Juan Zhang, Pei-Chun Xu, Li-Hua Yan, et al. (7 authors)
+Journal: Therapeutic drug monitoring
+Published: 2026-01-29
+PMID: 41606780
+
+SUMMARY:
+Transmural Healing is Associated With Higher Biological Drug Concentrations than Mucosal Healing in Crohn Disease.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41606780/
+
+
+[2] Management of Inflammatory Bowel Disease Associated With Primary Sclerosing Cholangitis Pre- and Post-liver Transplantation.
+----------------------------------------
+
+Authors: Marin J de Jong, Jiangrong Zhou, Lauranne A A P Derikx, S Darwish Murad, Adriaan J van der Meer, et al. (6 authors)
+Journal: Transplantation
+Published: 2026-01-28
+PMID: 41604430
+
+SUMMARY:
+Management of Inflammatory Bowel Disease Associated With Primary Sclerosing Cholangitis Pre- and Post-liver Transplantation.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41604430/
+
+
+[3] Long-term efficacy of biologics in moderate-to-severe hidradenitis suppurativa: A systematic review and MAIC.
+----------------------------------------
+
+Authors: Thrasyvoulos Tzellos, Vincent Piguet, Michael Frank Mørup, Leah Davis, Vanessa Taieb, et al. (10 authors)
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+Published: 2026-01-28
+PMID: 41603231
+
+SUMMARY:
+Long-term efficacy of biologics in moderate-to-severe hidradenitis suppurativa: A systematic review and MAIC.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41603231/
+
+
+[4] Adalimumab 80mg weekly dose escalation for hidradenitis suppurativa: A multi-centre retrospective cohort study incorporating therapeutic drug monitoring.
+----------------------------------------
+
+Authors: Hannah E Wainman, Ser Ling Chua, Donal O'Kane, Sarah Mehrtens, John R Ingram
+Journal: Clinical and experimental dermatology
+Published: 2026-01-28
+PMID: 41593033
+
+SUMMARY:
+Adalimumab 80mg weekly dose escalation for hidradenitis suppurativa: A multi-centre retrospective cohort study incorporating therapeutic drug monitoring.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41593033/
+
+
+[5] Successful Treatment of Refractory Sweet's Syndrome With Adalimumab in a Myelodysplastic Syndrome Patient.
+----------------------------------------
+
+Authors: Liya Ma, Yaojia Shen, Jie Chang, Shanshan Suo, Lu Wang, et al. (8 authors)
+Journal: EJHaem
+Published: 2026-01-22
+PMID: 41584901
+
+SUMMARY:
+Successful Treatment of Refractory Sweet's Syndrome With Adalimumab in a Myelodysplastic Syndrome Patient.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41584901/
+
+
+[6] Delphi consensus: First-line use of biologics and small molecules in hidradenitis suppurativa.
+----------------------------------------
+
+Authors: Georgios Nikolakis, Erkan Alpsoy, Florian Anzengruber, Matthias Augustin, Falk G Bechara, et al. (55 authors)
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+Published: 2026-01-24
+PMID: 41580305
+
+SUMMARY:
+Delphi consensus: First-line use of biologics and small molecules in hidradenitis suppurativa.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41580305/
+
+
+[7] Soluble programmed cell death-1 is increased in axial spondyloarthritis and present at the local site of pathology.
+----------------------------------------
+
+Authors: E Ahrenfeldt, M Hvid, A G Jurik, U Syrbe, D Poddubnyy, et al. (8 authors)
+Journal: Scandinavian journal of rheumatology
+Published: 2026-01-23
+PMID: 41572845
+
+SUMMARY:
+Soluble programmed cell death-1 is increased in axial spondyloarthritis and present at the local site of pathology.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41572845/
+
+
+[8] Evaluation of adalimumab tapering regimens in children and adolescents with juvenile idiopathic arthritis in remission: a simulation study.
+----------------------------------------
+
+Authors: Dominic S Bräm, Verena Gotta, Gilbert Koch, Klervi Golhen, Andreas Woerner, et al. (9 authors)
+Journal: Pediatric rheumatology online journal
+Published: 2026-01-22
+PMID: 41572321
+
+SUMMARY:
+Evaluation of adalimumab tapering regimens in children and adolescents with juvenile idiopathic arthritis in remission: a simulation study.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41572321/
+
+
+[9] Efficacy and Safety of Tofacitinib and Adalimumab in Rheumatoid Arthritis by Body Mass Index-Normalized Methotrexate Dose: A Post Hoc Analysis.
+----------------------------------------
+
+Authors: Tsutomu Takeuchi, Yoshiya Tanaka, Hisashi Yamanaka, Kunihiro Yamaoka, Naonobu Sugiyama, et al. (13 authors)
+Journal: Rheumatology and therapy
+Published: 2026-01-22
+PMID: 41565911
+
+SUMMARY:
+Efficacy and Safety of Tofacitinib and Adalimumab in Rheumatoid Arthritis by Body Mass Index-Normalized Methotrexate Dose: A Post Hoc Analysis.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41565911/
+
+
+[10] A Woman With Rheumatoid Arthritis and Vesicular Rash.
+----------------------------------------
+
+Authors: Brandon W Yan, Mary E Margaretten
+Journal: JAMA
+Published: 2026-Jan
+PMID: 41460519
+
+SUMMARY:
+A Woman With Rheumatoid Arthritis and Vesicular Rash.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41460519/
+
+
+[11] Vilobelimab to improve clinical outcomes in moderate-to-severe hidradenitis suppurativa through an adjunctive effect on draining tunnels: results of the SHINE double-blind placebo-controlled randomized trial.
+----------------------------------------
+
+Authors: Evangelos J Giamarellos-Bourboulis, Gregor B E Jemec, Errol P Prens, Niels C Riedemann, Isabell Otto, et al. (25 authors)
+Journal: The British journal of dermatology
+Published: 2026-Jan
+PMID: 41081529
+
+SUMMARY:
+Vilobelimab to improve clinical outcomes in moderate-to-severe hidradenitis suppurativa through an adjunctive effect on draining tunnels: results of the SHINE double-blind placebo-controlled randomized trial.
+
+RELEVANCE RATIONALE:
+Analysis skipped
+
+STUDY DETAILS:
+  Study Design: Not analyzed
+  Primary Endpoints: Not analyzed
+  Notable Results: Not analyzed
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41081529/
+
+
+================================================================================
+END OF REPORT
+================================================================================
+
+This report was automatically generated by the Medical Literature Monitor.
+For questions or feedback, contact your Medical Affairs team.

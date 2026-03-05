@@ -1,0 +1,273 @@
+================================================================================
+MEDICAL LITERATURE MONITORING DIGEST
+================================================================================
+
+Drug: adalimumab
+Period: Last 7 days
+Generated: January 29, 2026 at 14:34
+
+--------------------------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------------------------
+
+Total Publications Found: 11
+  - High Relevance:   10
+  - Medium Relevance: 1
+  - Low Relevance:    0
+
+================================================================================
+HIGH RELEVANCE PUBLICATIONS
+================================================================================
+
+[1] Transmural Healing is Associated With Higher Biological Drug Concentrations than Mucosal Healing in Crohn Disease.
+----------------------------------------
+
+Authors: Ze-Min Han, Welera Haissou Elodie, Wen-Juan Zhang, Pei-Chun Xu, Li-Hua Yan, et al. (7 authors)
+Journal: Therapeutic drug monitoring
+Published: 2026-01-29
+PMID: 41606780
+
+SUMMARY:
+This multicenter retrospective study of 302 Crohn disease patients found that transmural healing requires significantly higher adalimumab concentrations than mucosal healing (15.0 vs 9.9 mcg/mL). The optimal cutoff concentration for transmural healing was 10.3 mcg/mL compared to 6.4 mcg/mL for mucosal healing.
+
+RELEVANCE RATIONALE:
+Study directly investigates adalimumab drug concentrations and their association with transmural healing in Crohn disease, providing specific dosing guidance and therapeutic monitoring data
+
+STUDY DETAILS:
+  Study Design: Multicenter retrospective study
+  Primary Endpoints: Association between transmural healing/mucosal healing and serum trough levels of adalimumab/ustekinumab
+  Notable Results: Adalimumab concentrations for transmural healing vs mucosal healing: 15.0 vs 9.9 mcg/mL (P=0.02); optimal cutoff concentrations: 10.3 vs 6.4 mcg/mL; high drug concentration independently associated with transmural healing (OR 9.90, P<0.01)
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41606780/
+
+
+[2] Management of Inflammatory Bowel Disease Associated With Primary Sclerosing Cholangitis Pre- and Post-liver Transplantation.
+----------------------------------------
+
+Authors: Marin J de Jong, Jiangrong Zhou, Lauranne A A P Derikx, S Darwish Murad, Adriaan J van der Meer, et al. (6 authors)
+Journal: Transplantation
+Published: 2026-01-28
+PMID: 41604430
+
+SUMMARY:
+This review examines management of IBD in patients with primary sclerosing cholangitis (PSC) before and after liver transplantation. Adalimumab and vedolizumab showed modest biochemical improvements in selected PSC-IBD patient cohorts, though no therapy demonstrated consistent disease-modifying effects on PSC progression.
+
+RELEVANCE RATIONALE:
+The publication directly mentions adalimumab by name and discusses its efficacy in PSC-IBD patients, stating it has shown modest biochemical improvements in selected cohorts
+
+STUDY DETAILS:
+  Study Design: Review
+  Primary Endpoints: Not specified
+  Notable Results: Adalimumab showed modest biochemical improvements in selected PSC-IBD cohorts, but no consistent disease-modifying effects on PSC progression were demonstrated
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41604430/
+
+
+[3] Long-term efficacy of biologics in moderate-to-severe hidradenitis suppurativa: A systematic review and MAIC.
+----------------------------------------
+
+Authors: Thrasyvoulos Tzellos, Vincent Piguet, Michael Frank Mørup, Leah Davis, Vanessa Taieb, et al. (10 authors)
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+Published: 2026-01-28
+PMID: 41603231
+
+SUMMARY:
+This systematic review and matching-adjusted indirect comparison evaluated long-term efficacy of biologics in moderate-to-severe hidradenitis suppurativa at 48-52 weeks. The study found that bimekizumab demonstrated significantly superior efficacy compared to adalimumab for HiSCR50/75 outcomes, with odds ratios of 2.57 and 1.84 respectively.
+
+RELEVANCE RATIONALE:
+This study directly evaluates adalimumab's long-term efficacy in hidradenitis suppurativa compared to other biologics, providing head-to-head comparative data that could impact adalimumab's competitive positioning and clinical use
+
+STUDY DETAILS:
+  Study Design: Systematic review and matching-adjusted indirect comparison (MAIC)
+  Primary Endpoints: HS Clinical Response (HiSCR50, HiSCR75) and HS Severity Score System (IHS4) outcomes at Week 48-52
+  Notable Results: Bimekizumab showed significantly higher odds of response vs adalimumab: HiSCR50 (OR: 2.57; 95% CI: 1.48, 4.44) and HiSCR75 (OR: 1.84; 95% CI: 1.08, 3.13)
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41603231/
+
+
+[4] Adalimumab 80mg weekly dose escalation for hidradenitis suppurativa: A multi-centre retrospective cohort study incorporating therapeutic drug monitoring.
+----------------------------------------
+
+Authors: Hannah E Wainman, Ser Ling Chua, Donal O'Kane, Sarah Mehrtens, John R Ingram
+Journal: Clinical and experimental dermatology
+Published: 2026-01-28
+PMID: 41593033
+
+SUMMARY:
+This multi-centre retrospective cohort study examines adalimumab dose escalation to 80mg weekly for hidradenitis suppurativa patients and includes therapeutic drug monitoring data. The study provides real-world evidence on higher-dose adalimumab use in this dermatological indication.
+
+RELEVANCE RATIONALE:
+This study directly investigates adalimumab dose escalation (80mg weekly) for hidradenitis suppurativa and incorporates therapeutic drug monitoring, making it highly relevant to the drug monitoring program
+
+STUDY DETAILS:
+  Study Design: Multi-centre retrospective cohort study
+  Primary Endpoints: Not specified
+  Notable Results: Not specified
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41593033/
+
+
+[5] Successful Treatment of Refractory Sweet's Syndrome With Adalimumab in a Myelodysplastic Syndrome Patient.
+----------------------------------------
+
+Authors: Liya Ma, Yaojia Shen, Jie Chang, Shanshan Suo, Lu Wang, et al. (8 authors)
+Journal: EJHaem
+Published: 2026-01-22
+PMID: 41584901
+
+SUMMARY:
+A 69-year-old myelodysplastic syndrome patient developed Sweet's syndrome and was successfully treated with adalimumab, with gradual disappearance of rashes. However, the patient subsequently developed secondary disseminated fungal infections and ultimately died of heart failure and severe infection.
+
+RELEVANCE RATIONALE:
+This publication directly reports the use of adalimumab as treatment for Sweet's syndrome, providing clinical evidence of the drug's efficacy in this rare indication and documenting both therapeutic response and serious adverse events
+
+STUDY DETAILS:
+  Study Design: Case report
+  Primary Endpoints: Not specified
+  Notable Results: Gradual disappearance of rashes after adalimumab treatment, but development of secondary disseminated fungal infections and patient death from heart failure and severe infection
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41584901/
+
+
+[6] Delphi consensus: First-line use of biologics and small molecules in hidradenitis suppurativa.
+----------------------------------------
+
+Authors: Georgios Nikolakis, Erkan Alpsoy, Florian Anzengruber, Matthias Augustin, Falk G Bechara, et al. (55 authors)
+Journal: Journal of the European Academy of Dermatology and Venereology : JEADV
+Published: 2026-01-24
+PMID: 41580305
+
+SUMMARY:
+A Delphi consensus of 54 European HS experts established criteria for first-line biologic therapy in hidradenitis suppurativa, moving away from traditional antibiotic-first approaches. Strong consensus supported early biologic intervention for patients with contraindications to antibiotics, rapid disease progression, severe disease, and those with inflammatory comorbidities.
+
+RELEVANCE RATIONALE:
+This consensus directly impacts adalimumab as it is an approved biologic for hidradenitis suppurativa. The recommendations for first-line biologic use in specific patient populations could significantly affect adalimumab's clinical positioning and prescribing patterns in HS treatment.
+
+STUDY DETAILS:
+  Study Design: Delphi consensus study
+  Primary Endpoints: Expert consensus levels on 16 statements regarding first-line biologic/small molecule therapy criteria using Likert scale (-5 to +5) with agreement thresholds of ≥70% (majority), ≥75% (consensus), and ≥90% (strong consensus)
+  Notable Results: Strong consensus (≥90%) achieved for contraindicated antibiotic patients, rapid progressors, severe disease, syndromic HS, and patients with inflammatory comorbidities. Consensus (≥75%) reached for moderate disease (IHS4 ≥4), frequent flares (≥3 in 12 weeks), and anogenital involvement.
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41580305/
+
+
+[7] Soluble programmed cell death-1 is increased in axial spondyloarthritis and present at the local site of pathology.
+----------------------------------------
+
+Authors: E Ahrenfeldt, M Hvid, A G Jurik, U Syrbe, D Poddubnyy, et al. (8 authors)
+Journal: Scandinavian journal of rheumatology
+Published: 2026-01-23
+PMID: 41572845
+
+SUMMARY:
+Study examined the PD-1 pathway in axial spondyloarthritis patients, finding elevated soluble PD-1 and PD-L2 levels that remained unchanged after 1 year of adalimumab treatment. Results suggest the PD-1 pathway plays a dual role in disease pathogenesis and may indicate continued low-level immune activation despite treatment.
+
+RELEVANCE RATIONALE:
+This study directly investigates adalimumab treatment in axial spondyloarthritis patients, examining biomarker responses over 1 year of treatment and provides insights into treatment response mechanisms
+
+STUDY DETAILS:
+  Study Design: Prospective cohort study
+  Primary Endpoints: Soluble PD-1 and PD-L2 levels in blood and synovial fluid, correlation with disease activity markers, and response to adalimumab treatment over 1 year
+  Notable Results: sPD-1 and sPD-L2 levels were increased in both early and long-standing axSpA but were unaffected by 1 year of adalimumab treatment and did not correlate with disease activity scores or progression
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41572845/
+
+
+[8] Evaluation of adalimumab tapering regimens in children and adolescents with juvenile idiopathic arthritis in remission: a simulation study.
+----------------------------------------
+
+Authors: Dominic S Bräm, Verena Gotta, Gilbert Koch, Klervi Golhen, Andreas Woerner, et al. (9 authors)
+Journal: Pediatric rheumatology online journal
+Published: 2026-01-22
+PMID: 41572321
+
+SUMMARY:
+This simulation study evaluates different adalimumab dose tapering strategies in children and adolescents with juvenile idiopathic arthritis who have achieved remission. The research aims to inform optimal treatment de-escalation approaches in pediatric patients.
+
+RELEVANCE RATIONALE:
+This publication directly studies adalimumab tapering regimens in pediatric patients with juvenile idiopathic arthritis, which is directly relevant to the drug's monitoring program as it addresses dosing strategies and treatment optimization in a specific patient population.
+
+STUDY DETAILS:
+  Study Design: Simulation study
+  Primary Endpoints: Not specified
+  Notable Results: Not specified
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41572321/
+
+
+[9] Efficacy and Safety of Tofacitinib and Adalimumab in Rheumatoid Arthritis by Body Mass Index-Normalized Methotrexate Dose: A Post Hoc Analysis.
+----------------------------------------
+
+Authors: Tsutomu Takeuchi, Yoshiya Tanaka, Hisashi Yamanaka, Kunihiro Yamaoka, Naonobu Sugiyama, et al. (13 authors)
+Journal: Rheumatology and therapy
+Published: 2026-01-22
+PMID: 41565911
+
+SUMMARY:
+This post hoc analysis of the ORAL Strategy phase 3b/4 trial compared tofacitinib and adalimumab efficacy and safety across different baseline methotrexate doses normalized by BMI in RA patients. Both tofacitinib and adalimumab combination therapies showed similar ACR50 response rates at month 6 regardless of baseline BMI-normalized MTX dose, with no clear safety trends observed across dose tertiles.
+
+RELEVANCE RATIONALE:
+This publication directly studies adalimumab as one of the main treatment arms in a head-to-head comparison with tofacitinib, providing direct efficacy and safety data for adalimumab in RA patients
+
+STUDY DETAILS:
+  Study Design: Post hoc analysis of a randomized controlled trial (phase 3b/4)
+  Primary Endpoints: American College of Rheumatology (ACR) 50 response rates at month 6
+  Notable Results: Similar ACR50 response rates at month 6 were observed for both tofacitinib and adalimumab combination therapies across all baseline BMI-normalized MTX dose tertiles; combination therapy showed numerically higher ACR50 response rates than tofacitinib monotherapy regardless of MTX dose tertile
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41565911/
+
+
+[10] Vilobelimab to improve clinical outcomes in moderate-to-severe hidradenitis suppurativa through an adjunctive effect on draining tunnels: results of the SHINE double-blind placebo-controlled randomized trial.
+----------------------------------------
+
+Authors: Evangelos J Giamarellos-Bourboulis, Gregor B E Jemec, Errol P Prens, Niels C Riedemann, Isabell Otto, et al. (25 authors)
+Journal: The British journal of dermatology
+Published: 2026-Jan
+PMID: 41081529
+
+SUMMARY:
+The SHINE trial evaluated vilobelimab, an anti-C5a antibody, in 177 patients with moderate-to-severe hidradenitis suppurativa, including those refractory to adalimumab. While the primary endpoint was not met due to high placebo response rates, post hoc analysis showed significant improvements in draining tunnels and IHS4 scores with high-dose vilobelimab.
+
+RELEVANCE RATIONALE:
+This study is highly relevant as it explicitly mentions adalimumab in the context of patients with severe hidradenitis suppurativa who were refractory to adalimumab treatment, and evaluates a potential adjunctive therapy for this patient population
+
+STUDY DETAILS:
+  Study Design: Double-blind placebo-controlled randomized trial (phase IIb)
+  Primary Endpoints: Hidradenitis Suppurativa Clinical Response (HiSCR) at 16 weeks
+  Notable Results: Primary endpoint not met with 47.1% placebo response rate; high-dose vilobelimab significantly decreased median draining tunnel counts and IHS4 score by 63%; 45.5% of non-responders achieved HiSCR at week 40 after switching to medium-dose
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41081529/
+
+
+================================================================================
+MEDIUM RELEVANCE PUBLICATIONS
+================================================================================
+
+[1] A Woman With Rheumatoid Arthritis and Vesicular Rash.
+----------------------------------------
+
+Authors: Brandon W Yan, Mary E Margaretten
+Journal: JAMA
+Published: 2026-Jan
+PMID: 41460519
+
+SUMMARY:
+Case report of a woman with rheumatoid arthritis presenting with vesicular rash. Without abstract details, the specific etiology and treatment implications cannot be determined, but represents a potential safety signal relevant to TNF inhibitor therapy.
+
+RELEVANCE RATIONALE:
+Case involves rheumatoid arthritis patient with vesicular rash - RA is a key indication for adalimumab and vesicular rash could represent a potential adverse event of concern for TNF inhibitors including adalimumab
+
+STUDY DETAILS:
+  Study Design: Case report
+  Primary Endpoints: Not specified
+  Notable Results: Not specified
+
+Full Text: https://pubmed.ncbi.nlm.nih.gov/41460519/
+
+
+================================================================================
+END OF REPORT
+================================================================================
+
+This report was automatically generated by the Medical Literature Monitor.
+For questions or feedback, contact your Medical Affairs team.
